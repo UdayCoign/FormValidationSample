@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormValidationSample", "FormValidationSample\FormValidationSample.csproj", "{BAD7A50E-F192-4991-B273-B7C2C1FD1AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD7A50E-F192-4991-B273-B7C2C1FD1AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD7A50E-F192-4991-B273-B7C2C1FD1AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD7A50E-F192-4991-B273-B7C2C1FD1AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD7A50E-F192-4991-B273-B7C2C1FD1AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
